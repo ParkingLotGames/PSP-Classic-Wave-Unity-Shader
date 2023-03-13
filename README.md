@@ -11,7 +11,7 @@
 ### Package manifest
 * Add the following to your manifest.json under "dependencies":
 
-```"com.parkinglotgames.pspclassicwave": "1.0.0",```
+  ```"com.parkinglotgames.pspclassicwave": "1.0.0",```
 ### Git URL
 * In Unity, go to Window > Package Manager > "+" button > "Add package from git URL..." and enter:
 ```https://github.com/ParkingLotGames/PSP-Classic-Wave-Unity-Shader.git```
